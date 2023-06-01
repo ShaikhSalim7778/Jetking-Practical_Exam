@@ -1,0 +1,16 @@
+1. Smart Contracts
+
+	Smart comtract in solidity self-executing contracts with the tirms of agreement directly writen into code.
+soliditi is a programing language specifically desineed for writing for smart contract on Etherium blockchain.
+
+	Smart contract in Solidity are created to automate. They are stored and executed on the Etherium Virtual Machine.
+
+	Here are some key aspect of smart contract in solidiity.
+Self-execution
+Decentralization
+Transparency
+Security
+Automation
+Trustless environment
+Wide range of applications
+	
